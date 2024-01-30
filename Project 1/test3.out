@@ -1,0 +1,70 @@
+Welcome to the Moon Lander Simulation!
+Please enter initial altitude [1, 9999]: 0 is not a value between 1 and 9999!
+Please enter initial altitude [1, 9999]: 10000 is not a value between 1 and 9999!
+Please enter initial altitude [1, 9999]: Please enter initial fuel amount [a positive number]: 0 is not a positive number!
+Please enter initial fuel amount [a positive number]: -1 is not a positive number!
+Please enter initial fuel amount [a positive number]: time=0, altitude=1300, velocity=0, fuel=500, fuel rate=0
+Please enter fuel rate [0, 9]: time=1, altitude=1299.19, velocity=-1.62, fuel=500, fuel rate=0
+Please enter fuel rate [0, 9]: time=2, altitude=1296.76, velocity=-3.24, fuel=500, fuel rate=0
+Please enter fuel rate [0, 9]: time=3, altitude=1292.71, velocity=-4.86, fuel=500, fuel rate=0
+Please enter fuel rate [0, 9]: time=4, altitude=1287.04, velocity=-6.48, fuel=500, fuel rate=0
+Please enter fuel rate [0, 9]: time=5, altitude=1279.75, velocity=-8.1, fuel=500, fuel rate=0
+Please enter fuel rate [0, 9]: time=6, altitude=1270.84, velocity=-9.72, fuel=500, fuel rate=0
+Please enter fuel rate [0, 9]: time=7, altitude=1260.31, velocity=-11.34, fuel=500, fuel rate=0
+Please enter fuel rate [0, 9]: time=8, altitude=1248.16, velocity=-12.96, fuel=500, fuel rate=0
+Please enter fuel rate [0, 9]: time=9, altitude=1234.39, velocity=-14.58, fuel=500, fuel rate=0
+Please enter fuel rate [0, 9]: time=10, altitude=1219.0, velocity=-16.2, fuel=500, fuel rate=0
+Please enter fuel rate [0, 9]: time=11, altitude=1202.47, velocity=-16.85, fuel=497, fuel rate=3
+Please enter fuel rate [0, 9]: time=12, altitude=1185.3, velocity=-17.5, fuel=494, fuel rate=3
+Please enter fuel rate [0, 9]: time=13, altitude=1167.47, velocity=-18.15, fuel=491, fuel rate=3
+Please enter fuel rate [0, 9]: time=14, altitude=1149.0, velocity=-18.8, fuel=488, fuel rate=3
+Please enter fuel rate [0, 9]: time=15, altitude=1129.88, velocity=-19.45, fuel=485, fuel rate=3
+Please enter fuel rate [0, 9]: time=16, altitude=1110.1, velocity=-20.1, fuel=482, fuel rate=3
+Please enter fuel rate [0, 9]: time=17, altitude=1089.68, velocity=-20.75, fuel=479, fuel rate=3
+Please enter fuel rate [0, 9]: time=18, altitude=1068.6, velocity=-21.4, fuel=476, fuel rate=3
+Please enter fuel rate [0, 9]: time=19, altitude=1046.88, velocity=-22.05, fuel=473, fuel rate=3
+Please enter fuel rate [0, 9]: time=20, altitude=1024.51, velocity=-22.7, fuel=470, fuel rate=3
+Please enter fuel rate [0, 9]: time=21, altitude=1001.48, velocity=-23.35, fuel=467, fuel rate=3
+Please enter fuel rate [0, 9]: time=22, altitude=977.8, velocity=-24.0, fuel=464, fuel rate=3
+Please enter fuel rate [0, 9]: time=23, altitude=953.47, velocity=-24.65, fuel=461, fuel rate=3
+Please enter fuel rate [0, 9]: time=24, altitude=928.5, velocity=-25.3, fuel=458, fuel rate=3
+Please enter fuel rate [0, 9]: time=25, altitude=902.88, velocity=-25.95, fuel=455, fuel rate=3
+Please enter fuel rate [0, 9]: time=26, altitude=876.6, velocity=-26.6, fuel=452, fuel rate=3
+Please enter fuel rate [0, 9]: time=27, altitude=849.68, velocity=-27.25, fuel=449, fuel rate=3
+Please enter fuel rate [0, 9]: time=28, altitude=822.1, velocity=-27.9, fuel=446, fuel rate=3
+Please enter fuel rate [0, 9]: time=29, altitude=793.88, velocity=-28.55, fuel=443, fuel rate=3
+Please enter fuel rate [0, 9]: time=30, altitude=765.0, velocity=-29.2, fuel=440, fuel rate=3
+Please enter fuel rate [0, 9]: time=31, altitude=735.48, velocity=-29.85, fuel=437, fuel rate=3
+Please enter fuel rate [0, 9]: time=32, altitude=705.3, velocity=-30.5, fuel=434, fuel rate=3
+Please enter fuel rate [0, 9]: time=33, altitude=674.47, velocity=-31.15, fuel=431, fuel rate=3
+Please enter fuel rate [0, 9]: time=34, altitude=643.0, velocity=-31.8, fuel=428, fuel rate=3
+Please enter fuel rate [0, 9]: time=35, altitude=611.2, velocity=-31.8, fuel=423, fuel rate=5
+Please enter fuel rate [0, 9]: time=36, altitude=579.4, velocity=-31.8, fuel=418, fuel rate=5
+Please enter fuel rate [0, 9]: time=37, altitude=547.76, velocity=-31.48, fuel=412, fuel rate=6
+Please enter fuel rate [0, 9]: time=38, altitude=516.44, velocity=-31.16, fuel=406, fuel rate=6
+Please enter fuel rate [0, 9]: time=39, altitude=485.44, velocity=-30.84, fuel=400, fuel rate=6
+Please enter fuel rate [0, 9]: time=40, altitude=454.76, velocity=-30.52, fuel=394, fuel rate=6
+Please enter fuel rate [0, 9]: time=41, altitude=424.4, velocity=-30.2, fuel=388, fuel rate=6
+Please enter fuel rate [0, 9]: time=42, altitude=394.36, velocity=-29.88, fuel=382, fuel rate=6
+Please enter fuel rate [0, 9]: time=43, altitude=364.64, velocity=-29.56, fuel=376, fuel rate=6
+Please enter fuel rate [0, 9]: time=44, altitude=335.4, velocity=-28.91, fuel=369, fuel rate=7
+Please enter fuel rate [0, 9]: time=45, altitude=306.82, velocity=-28.26, fuel=362, fuel rate=7
+Please enter fuel rate [0, 9]: time=46, altitude=278.88, velocity=-27.61, fuel=355, fuel rate=7
+Please enter fuel rate [0, 9]: time=47, altitude=251.76, velocity=-26.64, fuel=347, fuel rate=8
+Please enter fuel rate [0, 9]: time=48, altitude=225.6, velocity=-25.67, fuel=339, fuel rate=8
+Please enter fuel rate [0, 9]: time=49, altitude=200.42, velocity=-24.7, fuel=331, fuel rate=8
+Please enter fuel rate [0, 9]: 10 is not a number between 0 and 9!
+Please enter fuel rate [0, 9]: -1 is not a number between 0 and 9!
+Please enter fuel rate [0, 9]: time=50, altitude=176.37, velocity=-23.4, fuel=322, fuel rate=9
+Please enter fuel rate [0, 9]: time=51, altitude=153.62, velocity=-22.1, fuel=313, fuel rate=9
+Please enter fuel rate [0, 9]: time=52, altitude=132.17, velocity=-20.8, fuel=304, fuel rate=9
+Please enter fuel rate [0, 9]: time=53, altitude=112.02, velocity=-19.5, fuel=295, fuel rate=9
+Please enter fuel rate [0, 9]: time=54, altitude=93.17, velocity=-18.2, fuel=286, fuel rate=9
+Please enter fuel rate [0, 9]: time=55, altitude=75.62, velocity=-16.9, fuel=277, fuel rate=9
+Please enter fuel rate [0, 9]: time=56, altitude=59.37, velocity=-15.6, fuel=268, fuel rate=9
+Please enter fuel rate [0, 9]: time=57, altitude=44.42, velocity=-14.3, fuel=259, fuel rate=9
+Please enter fuel rate [0, 9]: time=58, altitude=30.77, velocity=-13.0, fuel=250, fuel rate=9
+Please enter fuel rate [0, 9]: time=59, altitude=18.42, velocity=-11.7, fuel=241, fuel rate=9
+Please enter fuel rate [0, 9]: time=60, altitude=7.37, velocity=-10.4, fuel=232, fuel rate=9
+Please enter fuel rate [0, 9]: time=61, altitude=0, velocity=-9.1, fuel=223, fuel rate=9
+Status at landing - Enjoy your oxygen while it lasts!
